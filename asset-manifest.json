@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactSimpleCalendar/static/css/main.22b6e383.chunk.css",
-    "main.js": "/ReactSimpleCalendar/static/js/main.3ba32eb9.chunk.js",
-    "main.js.map": "/ReactSimpleCalendar/static/js/main.3ba32eb9.chunk.js.map",
-    "runtime-main.js": "/ReactSimpleCalendar/static/js/runtime-main.2fd8c8b3.js",
-    "runtime-main.js.map": "/ReactSimpleCalendar/static/js/runtime-main.2fd8c8b3.js.map",
-    "static/js/2.eda4a7d8.chunk.js": "/ReactSimpleCalendar/static/js/2.eda4a7d8.chunk.js",
-    "static/js/2.eda4a7d8.chunk.js.map": "/ReactSimpleCalendar/static/js/2.eda4a7d8.chunk.js.map",
-    "static/js/3.ff4d3c4c.chunk.js": "/ReactSimpleCalendar/static/js/3.ff4d3c4c.chunk.js",
-    "static/js/3.ff4d3c4c.chunk.js.map": "/ReactSimpleCalendar/static/js/3.ff4d3c4c.chunk.js.map",
-    "index.html": "/ReactSimpleCalendar/index.html",
-    "static/css/main.22b6e383.chunk.css.map": "/ReactSimpleCalendar/static/css/main.22b6e383.chunk.css.map",
-    "static/js/2.eda4a7d8.chunk.js.LICENSE.txt": "/ReactSimpleCalendar/static/js/2.eda4a7d8.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.22b6e383.chunk.css",
+    "main.js": "/static/js/main.3ba32eb9.chunk.js",
+    "main.js.map": "/static/js/main.3ba32eb9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd8c8b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd8c8b3.js.map",
+    "static/js/2.eda4a7d8.chunk.js": "/static/js/2.eda4a7d8.chunk.js",
+    "static/js/2.eda4a7d8.chunk.js.map": "/static/js/2.eda4a7d8.chunk.js.map",
+    "static/js/3.ff4d3c4c.chunk.js": "/static/js/3.ff4d3c4c.chunk.js",
+    "static/js/3.ff4d3c4c.chunk.js.map": "/static/js/3.ff4d3c4c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.22b6e383.chunk.css.map": "/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.eda4a7d8.chunk.js.LICENSE.txt": "/static/js/2.eda4a7d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2fd8c8b3.js",
